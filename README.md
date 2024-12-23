@@ -1,3 +1,1 @@
-Alunas:
-Kelly Arruda
-Renata Neiva
+Alunas: Kelly Arruda | Renata Neiva
